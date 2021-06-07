@@ -1,0 +1,25 @@
+Abraham, Ralph                R          male
+Adams, Alma                   D        female
+Aderholt, Robert              R          male
+Aguilar, Pete                 D          male
+Allen, Rick                   R          male
+Amash, Justin                 R          male
+Amodei, Mark                  R          male
+Arrington, Jodey              R          male
+Babin, Brian                  R          male
+Bacon, Don                    R          male
+Balderson, Troy               R          male
+Banks, Jim                    R          male
+Barletta, Lou                 R          male
+Barr, Andy                    R          male
+Barragan, Nanette             D        female
+Barton, Joe                   R          male
+Bass, Karen                   D        female
+Beatty, Joyce                 D        female
+Bera, Ami                     D        female
+Bergman, Jack                 R          male
+Beyer, Don                    D          male
+Biggs, Andy                   R          male
+Bilirakis, Gus M.             R          male
+Bishop Jr., Sanford D.        D          male
+Bishop, Mike                  R          male
