@@ -1,0 +1,8 @@
+green
+black
+11
+pass
+yes
+black
+hi
+exit

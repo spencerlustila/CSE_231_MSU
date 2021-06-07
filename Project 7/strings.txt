@@ -1,0 +1,7 @@
+22 prompt = "{:s}'s turn :> "
+loser = "{:s} gave up! {:s} is the winner!! yay!!!"
+22 wrong_color = ”Wrong color; type only 'black' or 'white', try again."
+22 who_is_who = "You are '{:s}' and your opponent is '{:s}'."
+22 full_column = "This column is full. Please try again."
+draw = "This game ends in a draw."
+winner = "'{:s}' wins! yay!!"

@@ -1,0 +1,70 @@
+
+       ____ ___  _   _ _   _ _____ ____ _____ _  _   
+      / ___/ _ \| \ | | \ | | ____/ ___|_   _| || |  
+     | |  | | | |  \| |  \| |  _|| |     | | | || |_ 
+     | |__| |_| | |\  | |\  | |__| |___  | | |__   _|
+      \____\___/|_| \_|_| \_|_____\____| |_|    |_|  
+    
+
+    Connect Four is a two-player connection game in which the players first choose a color and     then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid.     The pieces fall straight down, occupying the lowest available space within the column.     The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. 
+    
+
+        Usage:
+            pass:   give up, admit defeat
+            exit:   exit the game
+            i:      drop a disk into column i
+    
+Pick a color: green
+Wrong color; enter only 'black' or 'white', try again.
+Pick a color: black
+You are 'black' and your opponent is 'white'.
+Current board:
+    1   2   3   4   5   6   7 
+  +---+---+---+---+---+---+---+
+1 |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+
+2 |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+
+3 |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+
+4 |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+
+5 |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+
+6 |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+
+
+black's turn :> 11
+Invalid column: 1 <= column <= 7. Please try again.
+black's turn :> pass
+black gave up! white is the winner!! yay!!!
+Would you like to play again? yes
+Pick a color: black
+You are 'black' and your opponent is 'white'.
+Current board:
+    1   2   3   4   5   6   7 
+  +---+---+---+---+---+---+---+
+1 |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+
+2 |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+
+3 |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+
+4 |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+
+5 |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+
+6 |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+
+
+black's turn :> hi
+Invalid option
+
+        Usage:
+            pass:   give up, admit defeat
+            exit:   exit the game
+            i:      drop a disk into column i
+    
+black's turn :> exit
+
+Thanks for playing! See you again soon!
