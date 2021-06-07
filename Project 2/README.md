@@ -1,6 +1,6 @@
 # Project Title
 
-Project 1 - Cellular Automata
+Project 2
 
 ## Description
 
