@@ -1,0 +1,24 @@
+PROMPT = '''
+what do you want to draw:
+          
+	(0) to quit         
+	(1) circles         
+	(2) square spiral.
+    
+choice: '''
+
+"\nThis program draws concentric circles of many different colors.\n"
+"Number of circles must be positive; try again."
+"The radius must be an integer between 50 and 200; try again."
+"\nThis program draws squares of many colors.\n"
+"Number of squares must be positive; try again."
+"The side length must be an integer between 50 and 200; try again."
+"Invalid choice; try again."
+"Enter the number of circles to draw: "
+"Enter the number of circles to draw: "
+"\nEnter the radius (>=50, <=200) of the largest circle: "
+"Enter the radius (>=50, <=200) of the largest circle: "
+"Enter the number of squares to draw: "
+"Enter the number of squares to draw: "
+"\nEnter the side length (>=50, <=200) of the largest square: "
+"Enter the side length (>=50, <=200) of the largest square: "
