@@ -1,0 +1,8 @@
+"Please enter a valid filename: "
+"Error opening the file. "
+"Column number to sort data (1-category, 2-journals, 3-citations, 4-average citations): "
+"Incorrect column number. Try Again!"
+"Citation Data of the Top 20 Categories"
+'Category','Journals','Total Citations','Citation per Journal'
+"Do you want to plot the journal data (yes/no)? "
+"Incorrect answer! Enter yes/no"
