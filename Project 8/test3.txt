@@ -1,0 +1,8 @@
+athlete_events.csv
+badminton 
+y
+USA
+cycling
+y
+RUS
+q
