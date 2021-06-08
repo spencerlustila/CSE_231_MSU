@@ -1,0 +1,13 @@
+'Thanks for playing. See you again soon'
+'Invalid input. Please try again'
+"---------Start The game--------"
+"Shuffle Cards"
+"Dealing the cards, 4 cards for each player, 4 cards on the floor"
+"Cards left: "
+"Player {:d} turn: -> "
+"\n------Start new round-----"
+"Dealing the cards, 4 cards for each player"
+"player 1 is the winner"
+"player 2 is the winner"
+"No winner: equal score"
+'Please enter a valid card index, 0 <= index <= {:d}'
