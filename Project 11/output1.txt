@@ -1,0 +1,77 @@
+Enter user id to generate EgoNet: 1234
+Choices for Ego Net calculation: 
+1 - Top 5 similar features in a circle
+2 - Calculate effective size of Ego Net
+3 - Calculate circle E/I index
+4 - Calculate Ego Net efficiency
+q/Q - Quit 
+Enter choice: 1
+Enter circle name to calculate similarity: same_concentration
+Feature: ('education_concentration', '14')
+Feature Similarity in same_concentration: 1.0 
+
+Feature: ('birthday', '6')
+Feature Similarity in same_concentration: 0.5 
+
+Feature: ('education_school', '50')
+Feature Similarity in same_concentration: 0.5 
+
+Feature: ('education_school', '52')
+Feature Similarity in same_concentration: 0.5 
+
+Feature: ('education_degree', '22')
+Feature Similarity in same_concentration: 0.25 
+
+
+Choices for Ego Net calculation: 
+1 - Top 5 similar features in a circle
+2 - Calculate effective size of Ego Net
+3 - Calculate circle E/I index
+4 - Calculate Ego Net efficiency
+q/Q - Quit 
+Enter choice: 2
+Effective size of the Ego Net is: 5.285714285714286
+
+Choices for Ego Net calculation: 
+1 - Top 5 similar features in a circle
+2 - Calculate effective size of Ego Net
+3 - Calculate circle E/I index
+4 - Calculate Ego Net efficiency
+q/Q - Quit 
+Enter choice: 3
+Enter feature name to calculate E/I index: education_school
+Enter id for education_school to calculate E/I index: 52
+Ego is more heterophilic for education_school_52 with an E/I index of 0.14285714285714285
+
+Choices for Ego Net calculation: 
+1 - Top 5 similar features in a circle
+2 - Calculate effective size of Ego Net
+3 - Calculate circle E/I index
+4 - Calculate Ego Net efficiency
+q/Q - Quit 
+Enter choice: education_concentration
+Incorrect Choice. Please try again.
+Choices for Ego Net calculation: 
+1 - Top 5 similar features in a circle
+2 - Calculate effective size of Ego Net
+3 - Calculate circle E/I index
+4 - Calculate Ego Net efficiency
+q/Q - Quit 
+Enter choice: 14
+Incorrect Choice. Please try again.
+Choices for Ego Net calculation: 
+1 - Top 5 similar features in a circle
+2 - Calculate effective size of Ego Net
+3 - Calculate circle E/I index
+4 - Calculate Ego Net efficiency
+q/Q - Quit 
+Enter choice: 4
+The efficiency of the Ego Net is: 75.51%
+
+Choices for Ego Net calculation: 
+1 - Top 5 similar features in a circle
+2 - Calculate effective size of Ego Net
+3 - Calculate circle E/I index
+4 - Calculate Ego Net efficiency
+q/Q - Quit 
+Enter choice: q

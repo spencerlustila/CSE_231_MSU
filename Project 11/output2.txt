@@ -1,0 +1,61 @@
+Enter user id to generate EgoNet: 3980
+Choices for Ego Net calculation: 
+1 - Top 5 similar features in a circle
+2 - Calculate effective size of Ego Net
+3 - Calculate circle E/I index
+4 - Calculate Ego Net efficiency
+q/Q - Quit 
+Enter choice: 1
+Enter circle name to calculate similarity: circle6
+Feature: ('locale', '127')
+Feature Similarity in circle6: 1.0 
+
+Feature: ('gender', '78')
+Feature Similarity in circle6: 0.7727272727272727 
+
+Feature: ('education_school', '52')
+Feature Similarity in circle6: 0.6363636363636364 
+
+Feature: ('education_type', '54')
+Feature Similarity in circle6: 0.5909090909090909 
+
+Feature: ('education_type', '53')
+Feature Similarity in circle6: 0.5454545454545454 
+
+
+Choices for Ego Net calculation: 
+1 - Top 5 similar features in a circle
+2 - Calculate effective size of Ego Net
+3 - Calculate circle E/I index
+4 - Calculate Ego Net efficiency
+q/Q - Quit 
+Enter choice: 2
+Effective size of the Ego Net is: 54.05084745762712
+
+Choices for Ego Net calculation: 
+1 - Top 5 similar features in a circle
+2 - Calculate effective size of Ego Net
+3 - Calculate circle E/I index
+4 - Calculate Ego Net efficiency
+q/Q - Quit 
+Enter choice: 3
+Enter feature name to calculate E/I index: locale
+Enter id for locale to calculate E/I index: 127
+Ego is more homophilic for locale_127 with an E/I index of -0.6949152542372882
+
+Choices for Ego Net calculation: 
+1 - Top 5 similar features in a circle
+2 - Calculate effective size of Ego Net
+3 - Calculate circle E/I index
+4 - Calculate Ego Net efficiency
+q/Q - Quit 
+Enter choice: 4
+The efficiency of the Ego Net is: 91.61%
+
+Choices for Ego Net calculation: 
+1 - Top 5 similar features in a circle
+2 - Calculate effective size of Ego Net
+3 - Calculate circle E/I index
+4 - Calculate Ego Net efficiency
+q/Q - Quit 
+Enter choice: q
